@@ -56,7 +56,6 @@ Ein einzigartiger, AI-optimierter Marktplatz, der regionale Vorlieben mit einem 
   - **Mobile Development:** React Native  
   - **Version Control & Collaboration:** Git, GitHub  
   - **Future Topics | Kommende Themen:** Python, Django, TypeScript, MongoDB, Docker, and Cloud Technologies (AWS or Azure).  
-  - Python, Django, TypeScript, MongoDB, Docker und Cloud-Technologien (AWS oder Azure).  
 
 ---
 
@@ -69,7 +68,7 @@ Ein einzigartiger, AI-optimierter Marktplatz, der regionale Vorlieben mit einem 
 ## 📫 Contact | Kontakt  
 - ✉️ Reach me: [yunus089@gmail.com](mailto:yunus089@gmail.com)
 - ✉️ Schreib mir: [yunus089@gmail.com](mailto:yunus089@gmail.com)
-- 🌐 My Portfolio | Mein Portfolio: [coming soon...]  
+- 🌐 My Portfolio | Mein Portfolio: [currently under development]  
 
 ---
 
